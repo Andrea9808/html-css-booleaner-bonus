@@ -1,0 +1,126 @@
+
+
+
+header, main, footer{
+    margin: 0px;
+padding-left: 300px;
+padding-right: 300px;
+}
+
+
+/* Stili dell' header */
+
+.Background{
+    background-image: url(../img/pattern.png);
+    background-color: rgb(14, 155, 221);
+    background-size: 150px;
+    padding-top: 30px;
+}
+
+h1{
+    margin-bottom: 0px;
+}
+
+
+#logo{
+    width: 170px;
+    height: auto;
+}
+
+
+.Intestazione{
+    color: rgb(140, 138, 135);
+}
+
+#Booleaner{
+    color: blue;
+}
+
+.Data{
+    color: rgb(140, 138, 135);
+}
+.Data2{
+    color: rgb(140, 138, 135);
+    font-size: 10px;
+}
+
+
+/* Stili del main */
+
+section img {
+    margin-top: 30px;
+}
+
+.DidascaliaTim{
+    margin-top: 0px;
+}
+
+#Evidenziato1{background-color: yellow;}
+#Evidenziato2{background-color: yellow;}
+
+.riga1{
+    background-color: rgb(38, 132, 255);
+}
+
+.riga2{
+    background-color: rgb(135, 202, 229);
+}
+
+.riga4{
+    background-color: rgb(135, 202, 229);
+}
+
+ul{
+    padding: 20px;
+}
+
+.Allinea{
+    text-align: left;
+}
+
+table { 
+    border-collapse: collapse; border-spacing: 0; /* cellspacing */
+  }
+  
+  th, td { 
+    padding: 0px;  /* cellpadding */
+  }
+  
+.Tabellariga1 {
+    width: 20%;
+    text-align: left;
+}
+
+.Tabellariga2 {
+    width: 20%;
+    text-align: left;
+}
+
+
+
+/* Stili del Footer */
+
+.footer{
+    color: rgb(140, 138, 135);
+    padding-top: 40px;
+}
+
+.Monitor p{
+    background-image: url(../img/monitor.jpg);
+    width: 300px;
+    height: 200px;
+    font-size: 30px;
+    color: white;
+}
+
+.Grafico p{
+    background-image: url(../img/graph.jpg);
+    width: 300px;
+    height: 200px;
+    font-size: 30px;
+    color: white;
+}
+
+div p{
+    margin-top: 0px;
+}
