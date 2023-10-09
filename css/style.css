@@ -1,11 +1,10 @@
 
 
-body{
-    margin: 0px;
-    position: absolute;
-    right: 350px;
-    left: 350px}
-
+main, footer{
+    padding-left: 350px;
+    padding-right: 350px;
+}
+    
 
 /* Stili dell' header */
 
